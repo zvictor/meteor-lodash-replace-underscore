@@ -1,7 +1,7 @@
 Package.describe({
   name: 'underscore',
   summary: "Collection of small helpers: _.map, _.each, ...",
-  version: '1.0.4'
+  version: '1.0.5-modules.4'
 });
 
 Npm.depends({
